@@ -1,4 +1,3 @@
-import Foundation
 
 /// RFC 6265: HTTP State Management Mechanism
 ///
