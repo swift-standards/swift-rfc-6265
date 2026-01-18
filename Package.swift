@@ -19,10 +19,6 @@ let package = Package(
     targets: [
         .target(
             name: "RFC 6265"
-        ),
-        .testTarget(
-            name: "RFC 6265".tests,
-            dependencies: ["RFC 6265"]
         )
     ],
     swiftLanguageModes: [.v6]
